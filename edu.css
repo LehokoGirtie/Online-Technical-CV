@@ -111,11 +111,12 @@
       left: 31px;
     }
 
-    .timeline {
-      position: absolute;
+    /* .timeline {
+      position: relative;
       max-width: 450px;
       left: 10px;
-    }
+      top: 200px;
+    } */
       
 
   /* Full-width containers */
@@ -123,6 +124,7 @@
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
+    
   }
 
 /* Make sure that all arrows are pointing leftwards */
