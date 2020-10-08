@@ -265,6 +265,15 @@ text-align: center;
   .tablink{   
     width: auto;
   }  
+
+  .text1{
+    font-size: 20px;    
+    letter-spacing: 5px;    
+  }
+  .text2{
+    font-size: 40px;  
+    letter-spacing: 5px;   
+  }
   #About{
     height: 160%;
   }
@@ -277,9 +286,9 @@ text-align: center;
     height: 220%;  
   }
  
-  .image{
+  /* .image{
     height: 200px;  
     top: 200px;
-  }
+  } */
   
 }
