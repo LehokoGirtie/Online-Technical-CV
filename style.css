@@ -82,10 +82,10 @@ body, html{
   }
 
 #About{
-  background-color: green;
-  scroll-padding: 50px;
+  background-color: green;  
   padding-left: 50px;
   font-size: 15px;
+  height: 150%;
 }
 .image{
   height: 200px;
@@ -98,10 +98,9 @@ body, html{
   color: black;
   border: 5px solid black;
   background-color: lightcyan;
-  top: 100px;  
+  top: 70px;  
   left: 180px;
-  right: 100px;
- 
+  right: 50px; 
   position: absolute;  
 }
 
@@ -280,9 +279,11 @@ text-align: center;
     width: auto;
   }  
 
-  /* .box1{
-    height: 1200px;
-  } */
+  .box1{
+    padding-bottom: 40px;  
+    position: absolute;
+  }
+
   .box3{
     
     height: 900px;
