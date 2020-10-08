@@ -101,7 +101,7 @@ body, html{
   top: 100px;  
   left: 180px;
   right: 100px;
- height: fit-content;
+ 
   position: absolute;  
 }
 
@@ -278,7 +278,7 @@ text-align: center;
   }  
 
   .box1{
-    height: 20px;
+    height: 1200px;
   }
   .box3{
     

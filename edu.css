@@ -10,9 +10,8 @@
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
-    position: absolute;
-    max-width: 1200%;
-   
+    position: relative;
+    max-width: 1200%;   
     /* margin: 0 auto; */
   }
   
