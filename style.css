@@ -10,7 +10,6 @@ body, html{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/* style tab links */
 .tablink{
     background-color: #555;
     color: white;
@@ -28,8 +27,7 @@ body, html{
         background-color: black;        
     }
 
-    /* style tab content */
-.tabcontent{
+  .tabcontent{
     color: white;
     display: none;
     padding: 100px 100px;
@@ -144,9 +142,7 @@ body, html{
 
 
 .container {
-  width: 100%;  
-  /* background-color: grey;  */
-   
+  width: 100%;    
 }
 
 #Skills h2{
@@ -174,8 +170,6 @@ body, html{
 
 #Experience h2{
   text-decoration: underline;
-  
-  /* top:5px; */
 }
 .box3{
   border: 5px solid black;
@@ -218,8 +212,6 @@ body, html{
   padding-left: 1.5em;
 }
 
-
-/* Style all font awesome icons */
 .fa{
 padding:1%;
 font-size: 17px;
@@ -228,7 +220,6 @@ text-align: center;
 border-radius: 50%;
 }
 
-/* Add a hover effect if you want */
 .fa:hover {
 opacity: 0.7;
 }
@@ -285,10 +276,4 @@ text-align: center;
   #Experience{
     height: 220%;  
   }
- 
-  /* .image{
-    height: 200px;  
-    top: 200px;
-  } */
-  
-}
+ }
